@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR6q0253/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0253/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 焭絕老人天奇直註天童覺和尚頌古
+  identifiers:
+    krp: KR6q0253
+    cbeta: X67n1306
+    cbeta_old_id: X67n1306
+    authorityid: CA0002606
+    json_key: X1306
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X67/X67n1306.xml
+    old_id: X67n1306
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0253_000-X.yaml, hash: 'sha256:231e4e5ddc2e65a7180d8ffdb5757d54fbd6565eeaef12e4019e2eadfac64bfd'}
+  - {seq: 1, filename: KR6q0253_001-X.yaml, hash: 'sha256:8f3b366843757a785ec16312fff4c4881b86f728506824065af298a865ec4111'}
+  - {seq: 2, filename: KR6q0253_002-X.yaml, hash: 'sha256:44f09347477d80bb4ec03ae70b872c24d0b38fecd30692cfd68775c65a754b37'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0253_000-X.markers.yaml, hash: 'sha256:bd180e47b5319061f43c23906af4bf2b32c34da8b359b03b403ddb65af5a7534'}
+  - {seq: 1, role: markers, filename: assets/KR6q0253_001-X.markers.yaml, hash: 'sha256:53f5ee80c9a27d81018beec0e8eaa4f75c7ad81737053585364388db184dca5c'}
+  - {seq: 2, role: markers, filename: assets/KR6q0253_002-X.markers.yaml, hash: 'sha256:5fd212090ab62088331f207c3b7a4fc0675aaafa81e2e6a29cb06513a0aa96e3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0253_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11487
+  label: '焭絕老人天奇直註天童覺和尚頌
+
+    古上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0253_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 11078
+  label: 焭絕老人天奇直註天童覺和尚頌古下
+  type: juan
+  level: 1
+hash: sha256:42e2b50daa7cc2d3240bc6e6c9da04928ec4867aafce18aefa37ed8457ed2ec6

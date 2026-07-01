@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0253/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 焭絕老人天奇直註天童覺和尚頌古
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X67/X67n1306.xml
+    old_id: X67n1306
+hash: sha256:231e4e5ddc2e65a7180d8ffdb5757d54fbd6565eeaef12e4019e2eadfac64bfd
